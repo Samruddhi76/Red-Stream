@@ -1,4 +1,4 @@
-![Screenshot (498)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/d73b84f0-7426-4e8a-824d-57b3e6314554)
+
 # Project Red Stream
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=RESPONSIVE+WEBSITE+TEMPLATE;)](https://git.io/typing-svg)
 
