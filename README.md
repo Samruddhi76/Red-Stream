@@ -1,4 +1,4 @@
-
+![Screenshot (498)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/d73b84f0-7426-4e8a-824d-57b3e6314554)
 # Project Red Stream
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=RESPONSIVE+WEBSITE+TEMPLATE;)](https://git.io/typing-svg)
 
@@ -7,18 +7,14 @@ Red Stream is a full stack website project based on online blood donation. This 
 
 # Screenshot
 
+![Screenshot (498)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/07db3524-1531-4d3e-88ca-99192c0b6d1f)
+![![Screenshot (500)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/74463514-85e0-47ab-824c-356712a38b1c)
+Screenshot (499)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/f3b26f97-798d-4f64-9caf-ec04f744bd8c)
 
-![Screenshot (498)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/4364909c-eb1a-4923-bca4-b85e9cf2caa0)
+![Screenshot (501)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/a2d6abd2-6d29-4234-96af-eb7d3eb88ded)
 
-![Screenshot (499)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/2b0ec2bb-0d41-415b-93ef-14c0a49ea7f1)
-
-![Screenshot (500)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/a9e6cbcd-3853-468f-beb1-8e25e2d6eca1)
-
-
-![Screenshot (501)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/cc37b3c4-20e7-4eae-9ae1-1d7317e17df8)
-![Screenshot (502)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/50df7375-a76a-47c4-9c40-230bcc9a4ba3)
-![Screenshot (503)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/5290e50a-8244-409c-b273-5114b1bf2d33)
-
+![Screenshot (502)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/b88a6bf8-041b-46a1-80e6-fd875db5b83b)
+![Screenshot (503)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/96f2957f-4a8a-4338-ab65-dc1ec1f2be3b)
 
 
 ### Usage
