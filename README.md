@@ -6,11 +6,18 @@ Red Stream is a full stack website project based on online blood donation. This 
 
 
 # Screenshot
-![252156140-465974c2-8b22-441d-8406-59be5657b8ef](https://github.com/WH1T3-E4GL3/project-red-stream/assets/118425907/58b9be48-7769-4a20-a920-f331b296aab9)
 
 
+![Screenshot (498)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/4364909c-eb1a-4923-bca4-b85e9cf2caa0)
 
-<b><strong><i>You can visit the website live at </i></strong></b>https://wh1t3-e4gl3.github.io/project-red-stream/
+![Screenshot (499)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/2b0ec2bb-0d41-415b-93ef-14c0a49ea7f1)
+
+![Screenshot (500)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/a9e6cbcd-3853-468f-beb1-8e25e2d6eca1)
+
+
+![Screenshot (501)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/cc37b3c4-20e7-4eae-9ae1-1d7317e17df8)
+![Screenshot (502)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/50df7375-a76a-47c4-9c40-230bcc9a4ba3)
+![Screenshot (503)](https://github.com/Samruddhi76/Red-Stream/assets/111414361/5290e50a-8244-409c-b273-5114b1bf2d33)
 
 
 
@@ -43,7 +50,7 @@ This include front end design and backend code for a blood donation based websit
 
 This pack comes under Creative Commons Attribution-NonCommercial license (CC BY-NC). 
 
-~Work by Sethu Satheesh
+~Work by Samruddhi Bendugade
   
-  ©Sethu
+  ©Samruddhi
 
